@@ -17,7 +17,7 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Taehyeon An
-  tagline: SW Engineer
+  tagline: sw engineer
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -27,8 +27,7 @@ texture:
   social_links:
     twitter: 
     github:  
-    linkedIn:
-    insta: than
+    linkedIn: 
     rss: rss
  
 
