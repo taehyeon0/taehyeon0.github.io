@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  "Welcome"
-date:   %b %-d, %Y
+date:   2020-10-31
 ---
 Welcome
